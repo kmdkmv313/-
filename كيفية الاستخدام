@@ -1,0 +1,15 @@
+تأكد من تثبيت المكتبات المطلوبة:
+
+bash
+pip install requests colorama
+احفظ الكود في ملف instagram_username_generator.py
+
+شغّل الأداة:
+
+bash
+python instagram_username_generator.py
+أدخل عدد أسماء المستخدمين التي تريد البحث عنها (بين 1 و50)
+
+انتظر حتى تكتمل العملية وسيتم عرض الأسماء المتاحة
+
+اختر حفظ النتائج في ملف إذا رغبت
